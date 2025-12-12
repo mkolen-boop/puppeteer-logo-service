@@ -1,1 +1,12 @@
-
+{
+  "name": "puppeteer-logo-service",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0",
+    "puppeteer": "^22.0.0"
+  }
+}
